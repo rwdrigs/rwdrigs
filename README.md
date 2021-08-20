@@ -1,7 +1,6 @@
 ### Oi, Eu sou o Lucas Rodrigues
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando Python
+- 🌱 Estou estudando JavaScript
 - 😄 Pronomes: Ele/dele
  <div>
   <a href="https://github.com/lucrodrigues">
