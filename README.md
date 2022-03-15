@@ -41,7 +41,7 @@
  
  <div align="center">
 
- Projeto principal => [**geometria-plana**](https://github.com/lucrodrigues/geometriaplana) <= Repositórios do trabalho que apresentei na Escola sobre Matemática e Javascript
+ Projeto principal => [**geometria plana**](https://github.com/lucrodrigues/Geometria-Plana) <= Repositórios do trabalho que apresentei na Escola sobre Matemática e Javascript
     
 </div>
  
