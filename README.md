@@ -18,11 +18,11 @@
 
 <div align="center">
     <a href="https://github.com/lucrodrigues">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucrodrigues&&show_icons=true&line_height=27&count_private=true&theme=midnight-purple"
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucrodrigues&&show_icons=true&line_height=27&count_private=true&theme=midnight-purple"
         alt="Github">
     </a>
      <a href="https://github.com/lucrodrigues">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucrodrigues&hide=html&layout=compact&&show_icons=true&line_height=27&theme=midnight-purple"
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucrodrigues&hide=html&layout=compact&&show_icons=true&line_height=27&theme=midnight-purple"
         alt="Linguagens mais usadas">
     </a>
 </div>
