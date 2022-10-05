@@ -5,12 +5,12 @@
 </p>
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=drizxnn">
-        <img src="https://img.shields.io/twitter/follow/drizxnn?style=social&logo=twitter"
+    <a href="https://twitter.com/intent/follow?screen_name=rwdrigs">
+        <img src="https://img.shields.io/twitter/follow/rwdrigs?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
-    <a href="https://www.twitch.tv/rwdrigs">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/rwdrigs?style=social">
+    <a href="https://www.twitch.tv/lucas7ven">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/lucas7ven?style=social">
     </a>
 </div>
 
