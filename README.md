@@ -1,46 +1,39 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Oiiii, eu sou o Lucas!</h1>
+# Hi
 
-<img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
+I just create bugs on android and sometimes fix
 
-👨‍💻 Em transição de carreira.
+-----
+
+### about me:
+
+
+My name is Lucas Rodrigues. I live in Minas Gerais in Brazil and I'm in a career transition.
+
+I currently work with computer networks and telecommunications, in my spare time I do native android freelance work and solve problems.
+
+-----
+
+### Skills:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+</div>
+
+
+
+<br>
+<br>
+
+<div style="display: inline_block><br>
 
 <a href="https://linkedin.com/in/lucaselielrodrigues"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucaselielrodriguess@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://twitter.com/rwdrigs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitch.tv/rwdrigs"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
-<ul>
-   <li>📱 ┇ Estudante de desenvolvimento mobile (Kotlin);</li>
-  <li>💻 ┇ Familiarizado com Javascript e React;</li>   
-  <li>❤️ ┇ Desafios me atraem e me motivam;</li>
-  <li>🚀 ┇ #NeverStopLearning !
-</ul>
-
-<div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=rwdrigs">
-        <img src="https://img.shields.io/twitter/follow/rwdrigs?style=social&logo=twitter"
-        alt="follow on Twitter">
-    </a>
-    <a href="https://www.twitch.tv/lucas7ven">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/lucas7ven?style=social">
-    </a>
 </div>
-
----
-
-## 🛠 Tech Stack
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-  <img src="https://img.shields.io/badge/kotlin%20-%23806ee3.svg?&style=for-the-badge&logo=kotlin&logoColor=%23fafafa"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  
----
-  
-  <div align="center">
-    <a href="https://github.com/rwdrigs">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rwdrigs&&show_icons=true&line_height=27&count_private=true&theme=midnight-purple"
-        alt="Github">
-    </a></div>
